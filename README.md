@@ -1,3 +1,3 @@
-# Hack Club Summer Camp (Day 1)
+# Hack Club Summer Camp Personal Site
 
-Day 1! A simple personal website.
+A simple personal website.
